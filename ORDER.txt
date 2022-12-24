@@ -1,0 +1,3 @@
+Pizza Pepperoni | Cost: 3990, | Amount: 3
+Pizza BBQ | Cost: 3500, | Amount: 2
+Pizza Seafood | Cost: 4100, | Amount: 1

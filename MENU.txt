@@ -1,0 +1,5 @@
+Welcome to the Igor's pizzeria!
+We have 3 different types of pizza:
+- Pepperoni (Sousage, dough and cheese souse) 3990 KZT
+- BBQ (BBQ, dough and cheese souse) 3500 KZT
+- Seafood (Seafood, dough and cheese souse) 4100 KZT
